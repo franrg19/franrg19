@@ -20,7 +20,7 @@
     </div>
     <h2>📫 ¡Hablemos!</h2>
     <ul>
-        <li>📧 <a href="#">#</a></li>
+        <li>📧 <a href="info.franrg@gmail.com">info.franrg@gmail.com</a></li>
         <li>🔗 <a href="#">LinkedIn</a></li>
         <li>🐦 <a href="#">#</a></li>
     </ul>
